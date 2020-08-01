@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm currently a Software Engineer working in London
 
 <!--
 **GoldenRatio3/GoldenRatio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
