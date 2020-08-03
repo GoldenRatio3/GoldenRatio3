@@ -1,4 +1,7 @@
-### Hi there 👋 I'm currently a Software Engineer working in London
+### Hi there 👋, I'm Bradley Winter a Software Engineer in London
+
+#### 📫 How to reach me:
+[LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/bradleywinter/) | [Twitter <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/WinterBradley) | [My Blog <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlekeep.svg' alt='website' height='20'>](https://www.bradleywinter.dev/)
 
 <!--
 **GoldenRatio3/GoldenRatio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
