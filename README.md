@@ -1,7 +1,7 @@
 
 ![banner](https://i.ibb.co/yPW0tmF/Grey-Circles-Gaming-Youtube-Channel-Art.png)
 
-## Hi there 👋, I'm Bradley Winter a Software Engineer in London
+## Hi 👋, I'm Bradley Winter a Software Engineer in London
 
 ### 📫 How to reach me:
 [LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/bradleywinter/) | [Twitter <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/WinterBradley) | [My Blog <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlekeep.svg' alt='website' height='20'>](https://www.bradleywinter.dev/)
